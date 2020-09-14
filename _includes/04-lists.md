@@ -1,5 +1,5 @@
-*Astronomy
-*Cooking
-  *Baking
-*Photography
-  *Astrophotography
+* Astronomy
+* Cooking
+  * Baking
+* Photography
+  * Astrophotography
